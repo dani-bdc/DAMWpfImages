@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAMWpfImages", "DAMWpfImages\DAMWpfImages.csproj", "{0ADFB790-6763-4EEC-B968-E43EDAE8647F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfImageLibrary", "WpfImageLibrary\WpfImageLibrary.csproj", "{ED2B4BD1-0DE0-4277-8D7E-E1232B2D48E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ADFB790-6763-4EEC-B968-E43EDAE8647F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADFB790-6763-4EEC-B968-E43EDAE8647F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADFB790-6763-4EEC-B968-E43EDAE8647F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADFB790-6763-4EEC-B968-E43EDAE8647F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2B4BD1-0DE0-4277-8D7E-E1232B2D48E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2B4BD1-0DE0-4277-8D7E-E1232B2D48E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2B4BD1-0DE0-4277-8D7E-E1232B2D48E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2B4BD1-0DE0-4277-8D7E-E1232B2D48E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE78C9D2-0F11-4705-A005-6507D2DC71C8}
+	EndGlobalSection
+EndGlobal
